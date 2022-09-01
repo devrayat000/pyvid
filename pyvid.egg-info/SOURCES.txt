@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+pyvid/__init__.py
+pyvid/playlist.py
+pyvid.egg-info/PKG-INFO
+pyvid.egg-info/SOURCES.txt
+pyvid.egg-info/dependency_links.txt
+pyvid.egg-info/top_level.txt
