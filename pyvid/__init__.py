@@ -1,1 +1,1 @@
-import playlist
+import pyvid.playlist
