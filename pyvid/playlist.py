@@ -18,7 +18,7 @@ def getHighResolutionVideo(streams: StreamQuery) -> Stream:
         st = streams.filter(resolution=res[idx]).first()
         idx += 1
     return st
-
+# 
 
 for index, video in enumerate(p.videos):
     vid = YouTube(video.watch_url)
